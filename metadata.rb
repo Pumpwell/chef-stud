@@ -1,3 +1,4 @@
+name              "stud"
 maintainer       "Robby Grossman"
 maintainer_email "robby@freerobby.com"
 license          "All rights reserved"
